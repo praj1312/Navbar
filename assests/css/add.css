@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+
+
+}
+login.form{
+    width: auto;
+    margin: auto;
+
+
+}
+form{
+
+    text-align:left;
+    font-size: large;
+}
+.central{
+
+    padding: 30px;
+    background-color: cadetblue;
+
+}
+input[type=text],input[type=password]{
+    font-size:medium;
+    width: 100%;
+    margin: 4px 0;
+   padding: 3px 3px;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+.login{
+    font-size:medium;
+        text-align: center;
+        background-color:pink;
+        width: 50%;
+        color:black;
+        padding:5px 5px;
+}
+.cancel{
+    font-size:medium;
+    text-align:center;
+    background-color: aliceblue;
+    width: 50%;
+    color: black;
+    padding:5px 5px;
+
+
+}
+.addmission{
+padding: 3px 3px;
+margin: 3%;
+;
+
+
+}

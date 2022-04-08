@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+
+
+}
+login.form{
+    width: auto;
+    margin: auto;
+
+
+}
+.central{
+
+    padding: 30px;
+    background-color: cadetblue;
+
+}
+input[type=text],input[type=password]{
+    font-size:medium;
+    width: 100%;
+    margin: 8px 0;
+   padding: 5px 5px;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+.login{
+    font-size:medium;
+        text-align: center;
+        background-color:pink;
+        width: 50%;
+        color:black;
+        padding:5px 5px;
+}
+.cancel{
+    font-size:medium;
+    text-align:center;
+    background-color: aliceblue;
+    width: 50%;
+    color: black;
+    padding:5px 5px;
+
+
+}
+.addmission{
+padding: 5px 5px;
+margin: 5%;
+font-size: medium;
+
+
+}
+.graphics{
+    text-align: center;
+    font-size: xx-large;
+    color: darkgreen;
+
+}
+.graphics2{
+
+    font-size: larger;
+    color: brown;
+}
+body{
+
+    background-image: url("graphics.jpg");
+}
